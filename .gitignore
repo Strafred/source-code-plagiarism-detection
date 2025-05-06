@@ -1,4 +1,1 @@
-models_graphcodebert/*
-models_qodo_embedding/*
-models_sfr_embedding_original/*
-source-code-plagiarism-detection.rar
+models*/**
